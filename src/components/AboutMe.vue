@@ -30,9 +30,9 @@
               have acquired experiences on programming languages like JavaScript, Swift, Java, Python, C# and countless
               other technologies.</p>
             <p>After 10 years of full-stack software development, in early 2020, I decided to go somewhere more spesific like
-              mobile development. I've been working as a mobile developer with a great discovery and production desire
+              mobile development. I have been working as a mobile developer with a great discovery and production desire
               ever since.</p>
-            <p>I've also been actively working as mobile developer for the company VOIPzeker located in Netherlands.</p>
+            <p>I have also been actively working as mobile developer for the company VOIPzeker located in Netherlands.</p>
           </div>
 
           <div class="content">

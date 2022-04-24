@@ -108,12 +108,12 @@ const Data = {
                 },
                 {
                     title: 'Python',
-                    description: 'Python is one of the most fun and effective programming language for me. I\'ve started to code Python for machine learning and continued my journey with Tensorflow, Keras, Django, Plotly and the other frameworks. I mainly use Python for data analysis and machine learning.',
+                    description: 'Python is one of the most fun and effective programming language for me. I have started to code Python for machine learning and continued my journey with Tensorflow, Keras, Django, Plotly and the other frameworks. I mainly use Python for data analysis and machine learning.',
                     image: 'python-icon.svg'
                 },
                 {
                     title: 'C#',
-                    description: 'C# occupies an important place in my professional life. In almost every company I\'ve worked with, I did software development with C#. Many of them were enterprise applications. Database operations, desktop applications, RESTful API and countless applications.',
+                    description: 'C# occupies an important place in my professional life. In almost every company I have worked with, I did software development with C#. Many of them were enterprise applications. Database operations, desktop applications, RESTful API and countless applications.',
                     image: 'csharp-icon.svg'
                 },
             ],

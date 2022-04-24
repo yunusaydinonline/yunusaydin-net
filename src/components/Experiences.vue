@@ -5,7 +5,7 @@
       <h2>AN EXCITING JOURNEY IN PROFESSIONAL LIFE</h2>
     </div>
     <div class="container">
-      <p class="separated-text">Well, first of all, I've worked at different positions with different companies and learned a lot of skills. It's been more than 15 years since I
+      <p class="separated-text">Well, first of all, I have worked at different positions with different companies and learned a lot of skills. It's been more than 15 years since I
         started to build a career on software development. When I was a teenager all I wanted was to play guitar in a rock band for the rest of my life. But here I am, an
         experienced and passionate mobile developer. I listed some of my experiences below.</p>
       <div class="experience-container">
