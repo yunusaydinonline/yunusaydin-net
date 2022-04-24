@@ -6,7 +6,7 @@
           <img src="../assets/images/memoji-header.png" alt="" class="animated-memoji"/>
           <div class="slogan">
             Hello there! I'm <span class="name">YUNUS AYDIN</span>,<br>
-            I'm a <span class="title">full-stack software developer.</span><br>
+            I'm a <span class="title">mobile developer.</span><br>
             I develop awesome things with a great passion for you.
           </div>
         </div>

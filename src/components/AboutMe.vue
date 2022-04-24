@@ -21,16 +21,17 @@
         <div class="col-md-11">
           <div class="content">
             <p class="lead">
-              <strong>Hi, I’m Yunus and I’m a full-stack software developer located in {{ $root.profileInfo.location }}.</strong>
+              <strong>Hi, I’m Yunus and I’m a mobile developer located in {{ $root.profileInfo.location }}.</strong>
             </p>
-            <p>I was born in {{ $root.profileInfo.location }} in 1990. I have been carrying out software development since 2005 with a great passion. I have started my professional
-              life with HTML,
-              CSS and JavaScript programming languages and continued my works with simple web sites for a while.</p>
-            <p>After a while I've met with C# and started do develop web and desktop applications. From the first day I have started my profession, I have been involved in so many
-              projects with several coding languages and different development methods.</p>
-            <p>I have started full-stack software development early in 2010, thanks to my interest in the server technologies and requirements of the projects that I were in. I
-              have acquired experiences in Python, C#, JavaScript, MVC, MVT, software design patterns, multi-layered application architecture, and countless other technologies.</p>
-            <p>I have been working as a full-stack software developer with a great discovery and production desire.</p>
+            <p>I was born in {{ $root.profileInfo.location }} in 1990. I have been carrying out software development
+              since 2010 with a great passion.</p>
+            <p>I have started my career as a full-stack software developer early in 2010, thanks to my interest in
+              programming. I
+              have acquired experiences on programming languages like JavaScript, Swift, Java, Python, C# and countless
+              other technologies.</p>
+            <p>After 10 years of full-stack software development, in early 2020, I decided to go somewhere more spesific like
+              mobile development. I've been working as a mobile developer with a great discovery and production desire
+              ever since.</p>
             <p>I've also been actively working as mobile developer for the company VOIPzeker located in Netherlands.</p>
           </div>
 
@@ -119,7 +120,8 @@
               <h6>ADAPTATION</h6>
               <p>
                 It has always been an exciting experience for me to adapt to new technologies.
-                The exponential growth of technology affects all software developers closely and forces them to stay up to
+                The exponential growth of technology affects all software developers closely and forces them to stay up
+                to
                 date.
               </p>
             </div>
