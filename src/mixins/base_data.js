@@ -6,7 +6,7 @@ const Data = {
                 linkedinURL: 'https://www.linkedin.com/in/yunusaydinonline',
                 githubURL: 'https://github.com/yunusaydinonline',
                 skype: 'yunusaydinonline',
-                location: 'Istanbul/Turkey'
+                location: 'Antalya/Turkey'
             },
             menuItems: [
                 {
@@ -30,7 +30,7 @@ const Data = {
                 {
                     title: 'Mobile Developer',
                     company: 'VOIPZeker (Remote)',
-                    dateAndLocation: 'Nov 2020 - Present | Netherlands',
+                    dateAndLocation: 'Nov 2020 - Present | SASSENHEIM, NETHERLANDS',
                     jobDescription: 'Creating iOS and Android apps using by React Native, Swift and Java. Responsible on building mobile VOIP soft phones.',
                     details: {
                         detailsList: []
