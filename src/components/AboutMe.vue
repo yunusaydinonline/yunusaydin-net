@@ -40,7 +40,7 @@
                             brave ideas. Maybe the next unicorn will rise from your idea. Who knows, let's find out
                             together.</p>
 
-                        <p>Hi there, Yunus here. I'm a mobile and web app developer with strong and diverse experience
+                        <p>Hi there, Yunus here. I'm a full-stack developer with strong and diverse experience
                             from Antalya/Turkey. I have been carrying out software development since 2010 with a great
                             passion.</p>
 
@@ -93,13 +93,6 @@
                             <strong class="medium">English</strong> (Upper Intermediate),
                             <strong class="medium">Russian</strong> (Beginner)
                         </p>
-                    </div>
-
-                    <div class="content mb-0">
-                        <p class="lead">
-                            <strong>Languages Which I Want To Learn</strong>
-                        </p>
-                        <p><strong class="medium">Italian, French</strong></p>
                     </div>
                 </div>
             </div>

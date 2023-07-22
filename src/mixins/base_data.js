@@ -102,22 +102,17 @@ const Data = {
             ],
             topSkills: [
                 {
-                    title: 'JavaScript',
-                    description: 'For a long time, I used JavaScript for simple front-end operations rather than reactive operations. But with the development of Node.js in last decade, I have been using it for reactive programming. I use frameworks such as React, React Native and VueJS.',
-                    image: 'javascript-icon.svg'
-                },
-                {
                     title: 'Python',
-                    description: 'Python is one of the most fun and effective programming language for me. I have started to code Python for machine learning and continued my journey with Tensorflow, Keras, Django, Plotly and the other frameworks. I mainly use Python for data analysis and machine learning.',
+                    description: 'Python is one of the most fun and effective programming language for me. I have started coding with Python for machine learning and continued my journey with Tensorflow, Keras, Django, Plotly and the other frameworks. I mainly use Python for backend development.',
                     image: 'python-icon.svg'
                 },
                 {
-                    title: 'C#',
-                    description: 'C# occupies an important place in my professional life. In almost every company I have worked with, I did software development with C#. Many of them were enterprise applications. Database operations, desktop applications, RESTful API and countless applications.',
-                    image: 'csharp-icon.svg'
-                },
+                    title: 'JavaScript',
+                    description: 'For a long time, I used JavaScript for simple front-end operations rather than reactive operations. But with the development of Node.js in last decade, I have been using it for reactive programming. I use frameworks such as React, React Native and VueJS.',
+                    image: 'javascript-icon.svg'
+                }
             ],
-            otherSkills: ['React Native', 'Vue.js', 'Swift', 'Objective C', 'Java (For Android)', 'Django', 'Tensorflow', 'Keras', 'PyQt5', 'Plotly', 'SQL Alchemy', 'Axios', '.NET Framework', 'Accord.NET', 'Git, SVN', 'Node.js', 'Postman', 'Machine Learning', 'Genetic Programming', 'Figma']
+            otherSkills: ['React Native', 'Vue.js', 'Swift', 'Objective C', 'Java (For Android)', 'Django', 'FastAPI', 'SQL Alchemy', 'Docker', 'Kubernetes', 'Git', 'Tensorflow', 'Keras', 'PyQt5/6', 'Plotly']
         }
     }
 };

@@ -5,8 +5,8 @@
       <h2>LEARNING NEVER ENDS!</h2>
     </div>
     <div class="container">
-      <p class="separated-text">I have listed my most frequently used skills in programming below and I use many of them actively in professional life. I can say that I'm quite
-        passionate about some of my skills (e.g. Python and Machine Learning).</p>
+      <p class="separated-text">I have listed my most frequently used skills in programming below and I use many of
+        them actively in professional life.</p>
       <p class="lead text-center">
         <strong>Top Skills</strong>
       </p>
