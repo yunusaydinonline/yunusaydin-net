@@ -40,7 +40,7 @@
                             brave ideas. Maybe the next unicorn will rise from your idea. Who knows, let's find out
                             together.</p>
 
-                        <p>Hi there, Yunus here. I'm a full-stack developer with strong and diverse experience
+                        <p>Hi there, Yunus here. I'm a full-stack software developer with strong and diverse experience
                             from Antalya/Turkey. I have been carrying out software development since 2010 with a great
                             passion.</p>
 
@@ -90,7 +90,7 @@
                         </p>
                         <p>
                             <strong class="medium">Turkish</strong> (Native),
-                            <strong class="medium">English</strong> (Upper Intermediate),
+                            <strong class="medium">English</strong> (Advanced),
                             <strong class="medium">Russian</strong> (Beginner)
                         </p>
                     </div>

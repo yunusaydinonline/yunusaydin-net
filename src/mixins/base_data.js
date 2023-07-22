@@ -42,7 +42,7 @@ const Data = {
                     dateAndLocation: 'Dec 2018 - Nov 2020 | ISTANBUL, TURKEY',
                     jobDescription: 'Software development on the company\'s betting web sites and services developed with django-channels socket services, VueJS front-end and OctoberCMS PHP software layers.',
                     details: {
-                        detailsList: ['Software development of Python-Django socket layers and data feeder application,', 'Software development of OctoberCMS backend panel,', 'Software development of data analysis screen with PHP,', 'Software development of VueJS front-end and web socket layers.']
+                        detailsList: ['Software development of Python-Django socket layers and data feeder application,', 'Software development of OctoberCMS backend panel,', 'Software development of data analysis screen with PHP,', 'Software development of VueJS front-end and web socket layers.', 'Software development of iOS and Android mobile apps.']
                     }
                 },
                 {
