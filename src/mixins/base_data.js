@@ -112,7 +112,7 @@ const Data = {
                     image: 'javascript-icon.svg'
                 }
             ],
-            otherSkills: ['React Native', 'Vue.js', 'Swift', 'Objective C', 'Java (For Android)', 'Django', 'FastAPI', 'SQL Alchemy', 'Docker', 'Kubernetes', 'Git', 'Tensorflow', 'Keras', 'PyQt5/6', 'Plotly']
+            otherSkills: ['HTML', 'CSS', 'React Native', 'Vue.js', 'Swift', 'Objective C', 'Java (For Android)', 'Django', 'FastAPI', 'SQL Alchemy', 'Docker', 'Kubernetes', 'Git', 'Tensorflow', 'Keras', 'PyQt5/6', 'Plotly']
         }
     }
 };
