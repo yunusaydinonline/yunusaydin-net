@@ -1,15 +1,14 @@
 import Vue from 'vue'
 import App from './App.vue'
 import BootstrapVue from 'bootstrap-vue'
-import { AppJS } from './mixins/app'
-import { Data } from './mixins/base_data'
+import {AppJS} from './mixins/app'
 
 Vue.config.productionTip = false;
 
 Vue.use(BootstrapVue);
 
 const vm = new Vue({
-    mixins: [AppJS, Data],
+    mixins: [AppJS],
     render: h => h(App),
 }).$mount('#app');
 
